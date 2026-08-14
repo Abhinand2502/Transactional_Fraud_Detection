@@ -1,0 +1,68 @@
+Week 1 
+
+The dataset contains 284807 transactions after removing duplicates 283726.
+The dataset contains 31 variables.
+The target variable is Class.
+Class 0 represents legitimate transactions.
+Class 1 represents fraudulent transactions.
+The dataset is highly imbalanced.
+Missing-value analysis was performed - no significant missing values.
+Duplicate records were checked - removed 1081 duplicates.
+Data types were reviewed - no issues. 10.The dataset is ready for exploratory analysis.
+
+
+Total transactions: 283726
+Fraudulent transactions: 473
+Fraud percentage: 0.1667101358352777
+
+{  By the end of Week 1, you should have:
+
+Python work
+Jupyter Notebook started
+Dataset loaded
+Dataset dimensions
+Column information
+Data types
+Missing-value analysis
+Duplicate analysis
+Basic statistics
+Class distribution
+Fraud percentage
+Initial Time analysis
+Initial Amount analysis
+Initial charts
+Your Week 1 report
+
+Your report should contain:
+
+1. Objective
+
+Why you are analyzing the dataset.
+
+2. Dataset overview
+
+What the dataset contains.
+
+3. Data dimensions
+
+Rows and columns.
+
+4. Data quality
+
+Missing values, duplicates, data types.
+
+5. Fraud distribution
+
+Legitimate vs fraudulent transactions.
+
+6. Initial observations  }
+
+
+
+
+
+WEEK 2 — Deep EDA Using Python
+
+Now your main question becomes:
+
+“What characteristics distinguish fraudulent transactions from legitimate transactions?”
